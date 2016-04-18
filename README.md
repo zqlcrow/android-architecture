@@ -27,15 +27,15 @@ initial number of variants low before the stable release.
 All projects are released in their own branch. Check each project's README for
 more information.
 
-  * [todo-mvp/](https://github.com/googlesamples/android-architecture/tree/todo-mvp/todoapp) - Basic Model-View-Presenter architecture.
-  * [todo-mvp-loaders/](https://github.com/googlesamples/android-architecture/tree/todo-mvp-loaders/todoapp) - Based on todo-mvp, fetches data using Loaders.
-  * [todo-mvp-databinding/](https://github.com/googlesamples/android-architecture/tree/todo-databinding/todoapp) - Bases on todo-mvp, uses the Data Binding Library.
+  * [todo-mvp/](https://github.com/googlesamples/android-architecture/tree/todo-mvp/) - Basic Model-View-Presenter architecture.
+  * [todo-mvp-loaders/](https://github.com/googlesamples/android-architecture/tree/todo-mvp-loaders/) - Based on todo-mvp, fetches data using Loaders.
+  * [todo-mvp-databinding/](https://github.com/googlesamples/android-architecture/tree/todo-databinding/) - Based on todo-mvp, uses the Data Binding Library.
 
 In progress:
 
-  * <strong>todo-mvp-contentproviders</strong> - Based on todo-mvp-loaders, uses Content Providers
-  * <strong>todo-mvp-clean</strong> - Based on todo-mvp, uses concepts from Clean Architecture.
-  * <strong>todo-mvp-dagger</strong> - Based on todo-mvp, uses Dagger2 for Dependency Injection
+  * [dev-todo-mvp-contentproviders/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-contentproviders/) - Based on todo-mvp-loaders, uses Content Providers
+  * [dev-todo-mvp-clean/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-clean/) - Based on todo-mvp, uses concepts from Clean Architecture.
+  * [dev-todo-mvp-dagger/](https://github.com/googlesamples/android-architecture/tree/dev-todo-mvp-dagger/) - Based on todo-mvp, uses Dagger2 for Dependency Injection
 
 Also, see ["New sample" issues](https://github.com/googlesamples/android-architecture/issues?q=is%3Aissue+is%3Aopen+label%3A%22New+sample%22) for planned samples.
 
@@ -63,9 +63,11 @@ This project is **built by the community** and curated by Google and core mainta
 
 ### External contributors 
 
-[David González](http://github.com/malmstein) - Core developer
+[David González](http://github.com/malmstein) - Core developer (Content Providers sample)
 
-[Karumi](http://github.com/Karumi) - Developers
+[Karumi](http://github.com/Karumi) - Developers (MVP Clean architecture sample)
+
+[Erik Hellman](https://github.com/ErikHellman) - Developer (MVP RxJava sample)
 
 ### Googlers
 
@@ -74,6 +76,8 @@ This project is **built by the community** and curated by Google and core mainta
 [Natalie Masse](http://github.com/freewheelnat) - Core developer
 
 [Stephan Linzner](http://github.com/slinzner) - Core developer
+
+[Mustafa Kurtuldu](https://github.com/mustafa-x) - UX/design
 
 Want to be part of it? Read [how to become a contributor](https://github.com/googlesamples/android-architecture/blob/master/CONTRIBUTING.md) and the [contributor's guide](https://github.com/googlesamples/android-architecture/wiki/Contributions)
 
